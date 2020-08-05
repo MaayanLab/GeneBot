@@ -15,5 +15,4 @@ layout: home
 
 ![image](assets/images/homepage_3.png)
 
-# Support
-Feel free to contact us at ... ✉️
+## ✨ Check out my sibling app: DrugBot 💊
