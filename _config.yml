@@ -20,8 +20,8 @@
 
 title: 🧬 GeneBot 
 # avatar: assets/images/genebot_avatar.png 
-favicon: favicon.io
-logo: favicon.png
+# favicon: favicon.io
+# logo: favicon.png
 email: avi_maayan@mssm.edu
 description: >- # this means to ignore newlines until "baseurl:"
   A bioinformatics slack application developed by The Ma'ayan Laboratory of Computational Systems Biology
@@ -34,6 +34,7 @@ github_username:  MaayanLab
 theme: minima
 plugins:
   - jekyll-feed
+#  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
