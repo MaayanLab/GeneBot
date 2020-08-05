@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: GeneBot 🧬
+title: 🧬 GeneBot 
 # avatar: assets/images/genebot_avatar.png 
 # favicon: assets/images/genebot_favicon.png
 email: avi_maayan@mssm.edu
