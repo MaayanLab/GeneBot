@@ -13,7 +13,7 @@ We use your data to provide and improve the Service. By using the Service, you a
 
 ### Definitions
 **Service**
-- Service is the http://karmabot.chat website operated by Sliday Limited
+- Service is the GeneBot application operated by the Ma'ayan Lab
 
 **Personal Data**
 - Personal Data means data about a living individual who can be identified from those data (or from those and other information either in our possession or likely to come into our possession).
