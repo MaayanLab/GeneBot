@@ -16,4 +16,4 @@ layout: home
 
 ![image](/assets/images/homepage3_v2.png)
 
-## Check out our other app: [DrugBot](https://maayanlab.github.io/DrugBot/)
+## Explore our sister Slack application: [DrugBot](https://maayanlab.github.io/DrugBot/) ![image](/assets/images/drugbot_icon.png)

@@ -1,12 +1,10 @@
 ---
 layout: page
-title: How To Use 
+title: How To Use
 permalink: /howto/
 ---
 
-# How to Use GeneBot
-
-## Functions
+## GeneBot Functions
 
 ### Gene Summary 
 GeneBot enables users to submit a human gene of interest and outputs information pertaining to the searched gene. The **/gene** command provides a summary about the gene and links to various databases. 
