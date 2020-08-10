@@ -4,23 +4,20 @@ title: About
 permalink: /about/
 ---
 
-As more biomedical research groups have begun working remotely, online collaboration platforms have become increasingly popular within the field. Despite this, we noticed that there were no biomedical slack applications currently available. In order to bridge this gap, we decided to develop several slack applications that integrate various tools, some widely available and others developed by our lab. 
+Feel free to contact us at maayanlabapps@gmail.com ✉️
 
-**GeneBot** delivers gene information and analysis tools right into your slack workspace, streamlining communication and data interpretation. By simply calling a slash command, you will be able to share comprehensive gene summaries with your channels or quiz your own gene knowledge. GeneBot can also perform gene enrichment analysis or network analysis right from slack. 
+As more biomedical research groups have begun working remotely, online collaboration platforms such as Slack have become increasingly popular within the field of biomedical research. Despite this, there were currently no biomedical research Slack applications available. In order to bridge this gap, we developed GeneBot, a slack application that integrate various tools developed by the Ma'ayan Lab to perform gene and gene set analyses directly within Slack via interactions with a Slack bot.
 
-Whether you are someone who wants to learn more about genetics or a researcher who wants to share findings, GeneBot provides a powerful bioinformatics analysis tool that is both usable and integratable to the Slack workspace.
+**GeneBot** delivers knowledge about human genes into the Slack workspace, streamlining communication and data interpretation. By simply calling various slash commands, users can share comprehensive gene centered summaries, perform enrichment analyses, visualize gene-gene interactions networks, and test their knowledge about human genes.
 
-#### Link to Github Source Code:
+#### Link to Github Source Code: https://github.com/MaayanLab/GeneBot
 
 #### Developed in the Ma'ayan Lab by
 - Julie Karam
 - Alon Bartal
 - John Erol Evangelista
-- Maxim Kuleshov
-- Sherry Jenkins
+- Maxim V. Kuleshov
+- Sherry L. Jenkins
 - Avi Ma'ayan
-
-# Support
-Feel free to contact us at ... ✉️
 
 
