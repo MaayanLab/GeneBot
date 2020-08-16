@@ -12,9 +12,9 @@ In no event will the Ma'ayan Lab or any of its members be liable for any damages
 
 GeneBot is not collecting, analyzing, or reusing any user data.
 
-If you have any questions about this Privacy Policy, please contact us.
+If you have any questions about this Privacy Policy, please contact us at <mailto:maayanlabapps@gmail.com>.
 
 ## Terms of Use 
-Free for academic, non-profit use, but for commercial uses please contact Mount Sinai Innovation Partners for a license.
+Free for academic, non-profit use, but for commercial uses please contact [**Mount Sinai Innovation Partners**](https://ip.mountsinai.org/) for a license.
 
-If you have any questions about these Terms, please contact us.
+If you have any questions about these Terms, please contact us at <mailto:maayanlabapps@gmail.com>.
