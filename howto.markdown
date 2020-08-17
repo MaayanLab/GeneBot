@@ -19,7 +19,7 @@ The summary outputted is retrieved using the NCBI **Entrez Gene** database API. 
 ![image](assets/images/summary_output.png)
 
 ### Gene Enrichment Analysis
-GeneBot enables users to submit a gene set for enrichment analysis. The /geneset command can be used to perform gene enrichment analysis by listing valid Entrez human gene symbols following the command. Alternatively, users can upload a csv file with the gene set for analysis by calling **@genebot**. Additionally, users can specify which gene-set library they want to be displayed in their results in Slack.
+GeneBot enables users to submit a gene set for enrichment analysis. The /geneset command can be used to perform gene enrichment analysis by listing valid Entrez human gene symbols following the command. Alternatively, users can upload a CSV file with the gene set for analysis by calling **@genebot**. Additionally, users can specify which gene-set library they want to be displayed in their results in Slack.
 
 The gene set is analyzed using the [**Enrichr API**](https://amp.pharm.mssm.edu/Enrichr/help#api). The bot will output a link to [**Enrichr**](https://amp.pharm.mssm.edu/Enrichr/) for the gene set entered as well as summary statistics about the gene set. A bar graph displaying the top 10 enriched terms for the user selected gene-set library will be attached as a pdf file. 
 
@@ -80,4 +80,5 @@ GeneBot also contains an interactive game that can be played to learn how to mem
 - Output: 
 ![image](assets/images/quiz_output.png)
 
-For more details about how to use GeneBot, check out the detailed [user manual](.pdf). 
+If you have any questions about how to use GeneBot, please contact us at <mailto:maayanlabapps@gmail.com>.
+
