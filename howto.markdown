@@ -35,7 +35,7 @@ The gene set is analyzed using the [**Enrichr API**](https://amp.pharm.mssm.edu/
 - Input (file upload): 
     - `@genebot geneset *file*` 
     - `@genebot geneset library *file*` 
-        - [Here](/samplegenes.csv) is a sample file that is properly formatted with a drug set. 
+        - [Here](/samplegenes.csv) is a sample file that is properly formatted with a gene set. 
 
 ✦ **Example:** 
 - Input: `/geneset MAPK3, STAT1, CREB1`
