@@ -35,9 +35,10 @@ The gene set is analyzed using the [**Enrichr API**](https://amp.pharm.mssm.edu/
 - Input (file upload): 
     - `@genebot geneset *file*` 
     - `@genebot geneset library *file*` 
+        - [Here](/samplegenes.csv) is a sample file that is properly formatted with a drug set. 
 
 ✦ **Example:** 
-- Input: `/gene MAPK3, STAT1, CREB1`
+- Input: `/geneset MAPK3, STAT1, CREB1`
 - Output: 
 ![image](assets/images/enrichment_output.png)
 
@@ -68,7 +69,7 @@ The gene set is analyzed using the [**Genes2Networks**](https://amp.pharm.mssm.e
 - Input: `/network gene1, gene2, gene3... ` 
 
 ✦ **Example:** 
-- Input: `/gene BRCA1, BRCA2, STAT1, MAPK3`
+- Input: `/network BRCA1, BRCA2, STAT1, MAPK3`
 - Output: 
 ![image](assets/images/network_output.png)
 
