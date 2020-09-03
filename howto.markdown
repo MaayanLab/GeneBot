@@ -52,14 +52,6 @@ When specifying a library for output, GeneBot will recognize full **Enrichr** li
     - ENCODE = ENCODE_TF_ChIP-seq_2015
     - GWAS = GWAS_Catalog_2019
 
-✦ **Help Commands:**
-There are several built in help commands for performing enrichment analysis with GeneBot that can be called in Slack to provide concise summaries about different app features and functions. A list of all commands can be found by calling: `/geneset help?`
-
-- `/geneset ?` → provides summary of how to use GeneBot for enrichment analysis  
-- `/geneset library?` → provides instructions on how to specify library for output
-- `/geneset fileupload?` → provides instructions on how to upload file for analysis
-- `/geneset slashcommand?` → provides instructions on how to navigate /geneset command
-
 ### Gene-Gene Network Analysis
 GeneBot enables users to submit a gene set for gene-gene network analysis based on **protein-protein interactions** (PPI) and **gene-gene co-expression**. When users enter a gene set, the **/network** command can be used to trigger the constructions of a gene-gene network.
 
@@ -80,6 +72,20 @@ GeneBot also contains an interactive game that can be played to learn how to mem
 - Input: `/learn `
 - Output: 
 ![image](assets/images/quiz_output.png)
+
+### Help Commands:
+A list of all commands can by accessed by calling: `@genebot help`
+
+✦ **Gene Summary Help:**
+If a user needs help with using the **/gene** command to retrieve a summary about a gene, they can call the following command `/gene-help`.
+
+✦ **Enrichment Analysis Help:**
+There are several built in help commands for performng enrichment analysis with GeneBot that can be called in Slack to provide concise summaries about different app features and functions. A list of all enrichment analysis help commands can be found by calling: `/geneset-help`
+
+- `/geneset-help ?` → provides summary of how to use GeneBot for enrichment analysis  
+- `/geneset-help library?` → provides instructions on how to specify library for output
+- `/geneset-help fileupload?` → provides instructions on how to upload file for analysis
+- `/geneset-help slashcommand?` → provides instructions on how to navigate /geneset command
 
 If you have any questions about how to use GeneBot, please contact us at <mailto:maayanlabapps@gmail.com>.
 
