@@ -85,5 +85,9 @@ There are several built in help commands for performng enrichment analysis with 
 - `/geneset-help fileupload?` → provides instructions on how to upload file for analysis
 - `/geneset-help slashcommand?` → provides instructions on how to navigate /geneset command
 
+✦ **Gene-Gene Network Help:**
+If a user needs help with using the **/network** command to retrieve a summary about a gene, they can call the following command `/network-help`.
+
+
 If you have any questions about how to use GeneBot, please contact us at <mailto:maayanlabapps@gmail.com>.
 
