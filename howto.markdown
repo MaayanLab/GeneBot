@@ -31,8 +31,8 @@ The gene set is analyzed using the [**Enrichr API**](https://amp.pharm.mssm.edu/
         - Gene list can be space or comma separated.
         - Library specified input must be contained by brackets.
 - Input (file upload): 
-    - `@genebot geneset *file*` 
-    - `@genebot geneset library *file*` 
+    - `@genebot set *file*` 
+    - `@genebot set library *file*` 
         - [Here](/samplegenes.csv) is a sample file that is properly formatted with a gene set. 
 
 ✦ **Example:** 
