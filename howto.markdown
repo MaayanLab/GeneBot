@@ -26,10 +26,8 @@ The gene set is analyzed using the [**Enrichr API**](https://amp.pharm.mssm.edu/
 ✦ **Input Format:** 
 - Input (no library specified): 
     - `/geneset gene1, gene2, gene3... ` 
-    - `/geneset gene1 gene2 gene3... `
 - Input (library specified): 
     - `/geneset [library, gene1, gene2, gene3...] ` 
-    - `/geneset [ library, gene1 gene2 gene3...] `
         - Gene list can be space or comma separated.
         - Library specified input must be contained by brackets.
 - Input (file upload): 
@@ -69,7 +67,7 @@ The gene set is analyzed using the [**Genes2Networks**](https://amp.pharm.mssm.e
 GeneBot also contains an interactive game that can be played to learn how to memorize gene names and their known functions. We created the **/learn** command to output a multiple choice question where users can match the correct summary to the gene in question. 
 
 ✦ **Example:** 
-- Input: `/learn `
+- Input: `/learn-genes `
 - Output: 
 ![image](assets/images/quiz_output.png)
 
